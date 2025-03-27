@@ -1,0 +1,5 @@
+django
+pyjwt
+django-cors-headers
+mysqlclient
+openai
